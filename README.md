@@ -1,4 +1,5 @@
 # BIOST 515/518: Homework 1
+#### Instructor:  Amy Willis
 
 ## Instructions
 Submit your responses to the below questions as a single pdf file to Canvas. Your responses should have two
