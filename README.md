@@ -35,20 +35,20 @@ on anthropometry, triglycerides, Jenkins Activity Survey, and caffeine use. Aver
 8.5 years with repeat examinations.
 
 Data from the WCGS is available under “Datasets” as wcgs.csv. The variables are coded as follows:
-* id: participant ID
-* age0: age in years at start of study
-* height0: height in inches at start of study
-* weight0: weight in pounds at start of study
-* sdp0: systolic blood pressure in mm Hg at start of study
-* dbp0: diastolic blood pressure in mm Hg at start of study
-* chol0: Fasting serum cholesterol in mm/100g at start of study
-* behpat0: behavior type, a category with levels 1, 2, 3 and 4 (assessed at start of study)
-* ncigs0: number of cigarettes smoked per day
-* dibpat0: Dichotomous behavior pattern: 0 = Type B; 1 = Type A
-* chd69: Coronary heart disease event at 8 1/2 year follow up: 0 = none; 1 = yes
-* typechd: type of coronary heart disease. 0 = none, 1 = myocardial infarction or death, 2 = silent myocardial infarction, 3 = angina perctoris.
-* time169: Observation (follow up) time: Days
-* arcus0: Corneal arcus: 0 = none; 1 = yes
+* ***id***: participant ID
+* ***age0***: age in years at start of study
+* ***height0***: height in inches at start of study
+* ***weight0***: weight in pounds at start of study
+* ***sdp0***: systolic blood pressure in mm Hg at start of study
+* ***dbp0***: diastolic blood pressure in mm Hg at start of study
+* ***chol0***: Fasting serum cholesterol in mm/100g at start of study
+* ***behpat0***: behavior type, a category with levels 1, 2, 3 and 4 (assessed at start of study)
+* ***ncigs0***: number of cigarettes smoked per day
+* ***dibpat0***: Dichotomous behavior pattern: 0 = Type B; 1 = Type A
+* ***chd69***: Coronary heart disease event at 8 1/2 year follow up: 0 = none; 1 = yes
+* ***typechd***: type of coronary heart disease. 0 = none, 1 = myocardial infarction or death, 2 = silent myocardial infarction, 3 = angina perctoris.
+* ***time169***: Observation (follow up) time: Days
+* ***arcus0***: Corneal arcus: 0 = none; 1 = yes
 
 ## Questions
 1. Make a scatterplot of weight on the vertical axis and height on the horizontal axis. Based on this data, do you believe there is a linear relationship between weight and height in this population? Why or why not?
