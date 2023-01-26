@@ -5,7 +5,7 @@ install.packages("rigr")
 ### -----------------------------------------------------------
 ### Reading in the data.
 library(tidyverse)
-wcgs <- read_csv("~/Desktop/UW MS Biostat/BIOST Winter 2022/Biost 515/R dataset/wcgs.csv")
+wcgs <- read_csv("wcgs.csv")
 head(wcgs)
 ### -----------------------------------------------------------
 ### Q1
