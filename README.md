@@ -1,4 +1,5 @@
-# BIOST 515/518 Assignment 1
+# Apply simple linear regression model to investigate the relationship between weight/height and age in WCGS dataset
+#### BIOST 515/518 Assignment 1
 #### Instructor:  Amy Willis
 
 ## Background
@@ -13,6 +14,7 @@ use of medications; behavioral data including smoking, exercise, and alcohol use
 on anthropometry, triglycerides, Jenkins Activity Survey, and caffeine use. Average follow-up continued for
 8.5 years with repeat examinations.
 
+## Data set
 Data from the WCGS is available under “Datasets” as wcgs.csv. The variables are coded as follows:
 * ***id***: participant ID
 * ***age0***: age in years at start of study
