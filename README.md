@@ -1,4 +1,4 @@
-# BIOST 515/518 Assignment
+# BIOST 515/518 Assignment 1
 #### Instructor:  Amy Willis
 
 ## Background
