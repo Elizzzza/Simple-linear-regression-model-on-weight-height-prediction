@@ -1,26 +1,5 @@
-# BIOST 515/518: Homework 1
+# BIOST 515/518 Assignment
 #### Instructor:  Amy Willis
-
-## Instructions
-Submit your responses to the below questions as a single pdf file to Canvas. Your responses should have two
-sections
-1. “Responses”, where you respond to the questions, using figures and tables where appropriate.
-2. “Code”, an appendix containing code used to run your analyses and support your responses.
-
-You are welcome to use the homework submission template (Files → Homeworks → submission-template.Rmd)
-to prepare your responses, but this is not mandatory.
-
-Please note that credit will not be given for code and raw software output. Instead, you should use software
-to run analyses and prepare tables, figures, and/or other summaries of results as appropriate.
-
-Please thoughtfully organize your homework and answer in full sentences using professional,
-scientific writing. Tables and numeric information should be appropriate for inclusion in a scientific report,
-with appropriate rounding, and figures should be polished (e.g., with axes labelled and legends included).
-
-A key purpose of this homework (and all homeworks) is to work on Learning Goal #4: Prac-
-tice explaining our models and their interpretations to both statistical and non-statistical au-
-diences, so please use this opportunity to practice communicating clearly and justifying your
-scientific and statistical work.
 
 ## Background
 The Western Collaborative Group Study (WCGS) began in 1960 with 3,524 male volunteers who were
