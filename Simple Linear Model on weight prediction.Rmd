@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```{r, include=F}
 ### -----------------------------------------------------------
-### Reading in the data. 
+### Reading in the data 
 library(tidyverse)
 wcgs <- read_csv("wcgs.csv")
 ```
